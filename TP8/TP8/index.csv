@@ -1,0 +1,4 @@
+0,DumpStack.log,.tmp
+1,hiberfil,.sys
+2,pagefile,.sys
+3,swapfile,.sys
